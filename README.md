@@ -177,5 +177,6 @@ Python • pandas • NumPy • Matplotlib • Seaborn • Jupyter • Power BI
 
 ## Author
 
-**Your Name**  
-Data Analyst | Python • EDA • Dashboarding
+**Dipjyoti Karmakar**  
+Data Analyst | Analytics & Business Intelligence  
+[LinkedIn Profile](https://www.linkedin.com/in/dipjyoti-karmakar-dk/)
