@@ -150,8 +150,8 @@ Social-Media-Addiction-Analysis/
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/Social-Media-Addiction-Analysis.git
-cd Social-Media-Addiction-Analysis
+git clone https://github.com/<your-username>/social-media-addiction-analysis.git
+cd social-media-addiction-analysis
 
 python -m venv .venv
 .venv\Scripts\activate   # Windows
