@@ -150,7 +150,7 @@ Social-Media-Addiction-Analysis/
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/social-media-addiction-analysis.git
+git clone https://github.com/Dipjyoti-Karmakar/social-media-addiction-analysis.git
 cd social-media-addiction-analysis
 
 python -m venv .venv
