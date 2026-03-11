@@ -57,6 +57,12 @@ Storytelling + Dashboard Output (reports/)
 
 ---
 
+## How to get the code
+
+```bash
+git clone https://github.com/Dipjyoti-Karmakar/social-media-addiction-analysis.git
+```
+
 ## Project Structure
 
 ```
@@ -150,7 +156,6 @@ Social-Media-Addiction-Analysis/
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/Social-Media-Addiction-Analysis.git
 cd Social-Media-Addiction-Analysis
 
 python -m venv .venv
