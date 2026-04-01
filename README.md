@@ -37,6 +37,33 @@ The workflow:
 - More social media conflict aligns with lower sleep duration and weaker academic outcomes
 - The project includes both notebook analysis and a Power BI dashboard artifact
 
+### Quantitative Findings (From Notebook Analysis)
+
+| Metric | Value |
+|---|---:|
+| Dataset size | 705 records, 13 features |
+| Overall average addiction score | 6.44 |
+| Students with conflicts > 2 | 63.83% |
+| Average sleep (conflicts > 2) | 6.35 hours/night |
+| Average sleep (conflicts <= 2) | 7.79 hours/night |
+| Academic performance affected (Yes) for conflicts > 2 | 100.00% |
+
+| Gender | Mean Addicted Score |
+|---|---:|
+| Female | 6.52 |
+| Male | 6.36 |
+
+| Age Group | Mean Addicted Score |
+|---|---:|
+| 18-22 | 6.49 |
+| 23-26 | 5.87 |
+
+| Academic Level | Mean Addicted Score |
+|---|---:|
+| High School | 8.04 |
+| Undergraduate | 6.49 |
+| Graduate | 6.24 |
+
 ---
 
 ## Architecture
@@ -156,7 +183,8 @@ Social-Media-Addiction-Analysis/
 ## Quick Start
 
 ```bash
-cd Social-Media-Addiction-Analysis
+git clone https://github.com/Dipjyoti-Karmakar/social-media-addiction-analysis.git
+cd social-media-addiction-analysis
 
 python -m venv .venv
 .venv\Scripts\activate   # Windows
@@ -182,5 +210,6 @@ Python • pandas • NumPy • Matplotlib • Seaborn • Jupyter • Power BI
 
 ## Author
 
-**Your Name**  
-Data Analyst | Python • EDA • Dashboarding
+**Dipjyoti Karmakar**  
+Data Analyst | Analytics & Business Intelligence  
+[LinkedIn Profile](https://www.linkedin.com/in/dipjyoti-karmakar-dk/)
